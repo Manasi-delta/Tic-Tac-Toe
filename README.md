@@ -20,8 +20,9 @@ Players take turns marking “O” and “X” until one wins or the game ends i
 3. Click on the grid to make your move.
 4. The game automatically detects the winner or a draw.
 
-## 📸 Screenshot
-*(You can add a screenshot of your game here)*
+## 🖼️ Screenshot  
+![Tic-Tac-Toe Screenshot](C:\Users\Manasi Mandal\Pictures\Screenshots\Screenshot (799).png)
+
 
 ## 🌐 Live Demo
 [Click here to play the game](#)  <!-- I'll show you how to make this work next -->
