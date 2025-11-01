@@ -21,7 +21,7 @@ Players take turns marking “O” and “X” until one wins or the game ends i
 4. The game automatically detects the winner or a draw.
 
 ## 🖼️ Screenshot  
-![Tic-Tac-Toe Screenshot](C:\Users\Manasi Mandal\Pictures\Screenshots\Screenshot (799).png)
+![Tic-Tac-Toe Screenshot](Screenshot (799).png)
 
 
 ## 🚀 Live Demo  
