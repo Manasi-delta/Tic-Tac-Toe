@@ -24,10 +24,11 @@ Players take turns marking “O” and “X” until one wins or the game ends i
 ![Tic-Tac-Toe Screenshot](C:\Users\Manasi Mandal\Pictures\Screenshots\Screenshot (799).png)
 
 
-## 🌐 Live Demo
-[Click here to play the game](#)  <!-- I'll show you how to make this work next -->
+## 🚀 Live Demo  
+[👉 Click here to play the game](https://manasi-delta.github.io/Tic-Tac-Toe/)  
 
 ---
+
 
 Made with ❤️ by [Manasi Mandal](https://github.com/Manasi-delta)
 
